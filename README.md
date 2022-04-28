@@ -4,3 +4,4 @@
 ## Kaity Tainer
 ## Cynthia Cardenas
 Stacey Gonzalez
+## Kendra Sawyer
