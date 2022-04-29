@@ -3,5 +3,5 @@
 ## Rachael Reich 
 ## Kaity Tainer
 ## Cynthia Cardenas
-Stacey Gonzalez
+## Stacey Gonzalez
 ## Kendra Sawyer
