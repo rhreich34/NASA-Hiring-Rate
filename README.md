@@ -1,3 +1,4 @@
+[infographic.pdf](https://github.com/rhreich34/NASA-Hiring-Rate/files/8700745/infographic.pdf)
 # NASA-Hiring-Rate
 
 ## Rachael Reich 
